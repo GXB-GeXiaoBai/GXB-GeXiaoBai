@@ -15,9 +15,9 @@
 
 <p align="center">
   <a href="https://github.com/GXB-GeXiaoBai" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=GXB-GeXiaoBai&title_color=333&text_color=777&&theme=radical" alt="GXB-GeXiaoBai's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=GXB-GeXiaoBai&theme=radical" alt="GXB-GeXiaoBai's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=GXB-GeXiaoBai&hide=issues&title_color=333&text_color=777&theme=radical" alt="GXB-GeXiaoBai's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=GXB-GeXiaoBai&hide=issues&theme=radical" alt="GXB-GeXiaoBai's Stats" >
     -->
   </a>
 </p>
