@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img align="right" top='60' alt="jpg" src="images/1.jpg" width="480"/>
+<!--插入图片-->
+<img src="images/1.jpg " width="100" height="100" alt="图片加载失败时，显示这段字"/>
 
 ### 我是鸽小白
 
