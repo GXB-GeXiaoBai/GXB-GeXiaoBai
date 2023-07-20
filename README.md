@@ -1,6 +1,5 @@
 ### Hi there 👋
-<!--插入图片-->
-<img src="images/1.png" width="100" height="100" alt="图片加载失败" align="right" top='60'/>
+<img src="images/1.png" width="200" height="200" alt="图片加载失败" align="right" top='60'/>
 
 ### 我是鸽小白
 
@@ -16,9 +15,9 @@
 
 <p align="center">
   <a href="https://github.com/GXB-GeXiaoBai" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=GXB-GeXiaoBai&title_color=333&text_color=777" alt="GXB-GeXiaoBai's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=GXB-GeXiaoBai&hide=issues&title_color=333&text_color=777" alt="GXB-GeXiaoBai's Stats" >
     -->
   </a>
 </p>
