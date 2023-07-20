@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--插入图片-->
-<img src="images/1.png" width="100" height="100" alt="图片加载失败时，显示这段字"/>
+<img src="images/1.png" width="480" alt="图片加载失败" align="right" top='60'/>
 
 ### 我是鸽小白
 
@@ -13,6 +13,12 @@
 - 系统的学习了3年的计算机，自学了大概1坤年(两年半🐓)
 - 电子邮箱：12496802@qq.com
 <br/>
-<br/>
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<br/>
+
+<p align="center">
+  <a href="https://github.com/Charmve" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
+    -->
+  </a>
+</p>
