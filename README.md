@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <a text= "暂时不打算向外透露~~" target="_blank" alt="WeChat" title="WeChat">
+    <a target="_blank" alt="WeChat" title="WeChat">
         <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
     </a>
 </p>
