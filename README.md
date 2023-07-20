@@ -1,12 +1,12 @@
 ### Hi there 👋
-<img src="images/1.png" width="270" height="270" alt="图片加载失败" align="right" top='80'/>
+<img src="images/1.png" width="200" height="200" alt="图片加载失败" align="right" top='10'/>
 
 ### 我是鸽小白
 
 <br/>
 
-- 一个喜欢躺平但是不喜欢敲键盘但是无可奈何的小白
-- 目前在辽宁
+- 一个喜欢躺平、不喜欢敲键盘但是无可奈何的小白
+- 目前居住于辽宁
 - 喜欢玩游戏(OwO)
 - 暂无工作经验(会努力的QAQ)
 - 系统的学习了3年的计算机，自学了大概1坤年(两年半🐓)
