@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="images/1.png" width="200" height="200" alt="图片加载失败" align="right" top='10'/>
+<img src="images/1.png" width="469" height="560" alt="图片加载失败" align="right" top='10'/>
 
 ### 我是鸽小白
 
