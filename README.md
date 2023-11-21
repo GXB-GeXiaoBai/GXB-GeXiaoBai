@@ -1,10 +1,9 @@
 ### Hi there 👋
-<img src="images/1.png" width="313" height="373" alt="图片加载失败" align="right" top='10'/>
+<img src="images/1.jpg" width="313" height="373" alt="图片加载失败" align="right" top='10'/>
 
 ### 我是鸽小白
 
 <br/>
-
 - 一个喜欢躺平、不喜欢敲键盘但是无可奈何的小白
 - 目前居住于辽宁
 - 喜欢玩游戏(OwO)
@@ -20,12 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GXB-GeXiaoBai&hide=issues&theme=radical" alt="GXB-GeXiaoBai's Stats" >
     -->
   </a>
-</p>
-
-<p align="center">
-    <a target="_blank" alt="WeChat" title="WeChat">
-        <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-    </a>
 </p>
 
 <img align="right" alt="GIF" src="images/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,8 +44,10 @@
 📊 **当前编写语言:**
 <!--START_SECTION:waka-->
 ```text
+Python     1 mins         ██████████████████████░░░   79.40 % 
+Bat        1 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Shell      1 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    3.30 % 
 C/C++      0 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Python     1 mins         █████████████████████████  100.00 % 
 Java       0 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 html       0 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
